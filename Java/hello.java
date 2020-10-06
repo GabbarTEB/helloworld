@@ -1,4 +1,5 @@
-class HelloWorld {
+// A java class to print hello world using java
+public class hello {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
